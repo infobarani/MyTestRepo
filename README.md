@@ -1,3 +1,11 @@
-#Initial git commit.
+# Initial git commit.
+
 Test text file.
-Added third line.
+
+## Trying out list in markdown
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
